@@ -1,0 +1,15 @@
+{
+  "name": "Zone2D-Dev",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "Zone2D": {
+          "$path": "src"
+        },
+        "$path": "Packages"
+      }
+    }
+  }
+}

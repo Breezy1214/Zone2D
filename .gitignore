@@ -1,0 +1,8 @@
+Packages/
+sourcemap.json
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+build/
+.moonwave/
